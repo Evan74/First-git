@@ -1,2 +1,2 @@
 # First-git
-learning how to git
+repo for learning how to git
